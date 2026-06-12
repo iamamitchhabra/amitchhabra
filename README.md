@@ -8,7 +8,7 @@ I design fault-tolerant cloud infrastructure, zero-downtime deployment systems, 
 
 ## Website
 
-👉 https://amitchhabra.in
+https://amitchhabra.in
 
 ## Expertise
 
@@ -23,4 +23,4 @@ I design fault-tolerant cloud infrastructure, zero-downtime deployment systems, 
 ## Connect
 
 - Website: https://amitchhabra.in
-- LinkedIn: https://linkedin.com/in/your-profile
+- LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/amit-chhabra-dev/)
