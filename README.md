@@ -1,26 +1,23 @@
 # Amit Chhabra
 
-Cloud Architect and High Availability Consultant.
+Cloud Architect & High Availability Consultant
 
-## About Me
+I help organizations build highly available cloud infrastructure with zero-downtime deployments and fault-tolerant AWS architectures.
 
-I design fault-tolerant cloud infrastructure, zero-downtime deployment systems, and scalable AWS architectures.
+Website: https://amitchhabra.in
 
-## Website
+## Areas of Expertise
 
-https://amitchhabra.in
-
-## Expertise
-
-- AWS
+- AWS Architecture
+- High Availability Systems
 - Kubernetes
-- High Availability
 - Disaster Recovery
+- DevOps Automation
 - Load Balancing
-- DevOps
-- Zero Downtime Deployments
+- Infrastructure as Code
 
 ## Connect
 
 - Website: https://amitchhabra.in
-- LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/amit-chhabra-dev/)
+- LinkedIn: https://www.linkedin.com/in/amit-chhabra-dev/
+- GitHub: https://github.com/iamamitchhabra
